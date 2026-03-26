@@ -517,7 +517,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: ensemble
 
 Predikcija (Ensemble (L2-norm prosek DeepWalk + UnbiasedWalk)):
-[8, 10, 11, 23, 25, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -531,7 +531,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: ensemble
 
 Predikcija (Ensemble (L2-norm prosek DeepWalk + UnbiasedWalk)):
-[8, 10, 11, 23, 25, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -545,7 +545,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: ensemble
 
 Predikcija (Ensemble (L2-norm prosek DeepWalk + UnbiasedWalk)):
-[8, 10, 11, 23, 25, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -559,7 +559,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: unbiased
 
 Predikcija (UnbiasedWalk (graspe embedding_randw)):
-[8, 10, 11, 23, 25, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -573,7 +573,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: sc | label-mode=mod7
 
 Predikcija (SC (graspe embedding_randw, labels=mod7)):
-[8, 11, 22, 25, 29, 32, 39]
+[8, 11, x, y, z, 32, 39]
 """
 
 
@@ -587,7 +587,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: sc | label-mode=mod7
 
 Predikcija (SC (graspe embedding_randw, labels=mod7)):
-[8, 11, 22, 25, 29, 32, 39]
+[8, 11, x, y, z, 32, 39]
 """
 
 
@@ -601,7 +601,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: hub_u | label-mode=mod7
 
 Predikcija (HUB_U (graspe embedding_randw, labels=mod7)):
-[8, 10, 23, 25, 32, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -615,7 +615,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: hub_u | label-mode=mod7
 
 Predikcija (HUB_U (graspe embedding_randw, labels=mod7)):
-[8, 10, 23, 25, 32, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -629,7 +629,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: hub_d | label-mode=mod7
 
 Predikcija (HUB_D (graspe embedding_randw, labels=mod7)):
-[8, 10, 11, 22, 23, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -643,7 +643,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: hub_d | label-mode=mod7
 
 Predikcija (HUB_D (graspe embedding_randw, labels=mod7)):
-[8, 10, 11, 22, 23, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -657,7 +657,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: mega | label-mode=mod7
 
 Predikcija (Mega (DW+UB+SC, labels=mod7)):
-[5, 16, 19, 23, 26, 33, 37]
+[5, 16, x, y, z, 33, 37]
 """
 
 
@@ -671,7 +671,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: mega | label-mode=mod7
 
 Predikcija (Mega (DW+UB+SC, labels=mod7)):
-[5, 16, 19, 23, 26, 33, 37]
+[5, 16, x, y, z, 33, 37]
 """
 
 
@@ -685,7 +685,7 @@ graspe: /Users/4c/Desktop/GHQ/third_party/graspe/src/graspe
 Metoda: mega | label-mode=decile
 
 Predikcija (Mega (DW+UB+SC, labels=decile)):
-[8, 10, 23, 25, 29, 34, 37]
+[8, 10, x, y, z, 34, 37]
 """
 
 
